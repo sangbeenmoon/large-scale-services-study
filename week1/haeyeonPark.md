@@ -10,7 +10,8 @@
 
 ## 인상 깊은 내용
 > 특히 기억에 남거나 공감된 부분
-- 광회선은 한번도 생각해본적 없는데... -> spring boot 기본 설정의 request body size limit에 걸린적은 있다.
+- 광회선은 한번도 생각해본적 없는데... -> spring boot webflux 기본 설정의 request body size limit에 걸린적은 있다. (spring.codec.max-in-memory-size=256KB)
+- 동일 레이어의 경우 하나의 언어를 사용한다. -> 규모가 커질수록 msa로 갈수록, 유지하기 어려운 규칙
 
 ## 이해가 어려웠던 내용
 > 설명이 어렵거나 개념이 잘 이해되지 않았던 부분
